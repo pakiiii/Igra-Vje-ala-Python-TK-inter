@@ -1,0 +1,20 @@
+# Tools
+hammer
+drill
+screwdriver
+
+# Domestic Animals
+cat
+dog
+horse
+
+# Male Names
+john
+patrick
+lucas
+
+# Female Names
+anna
+mary
+sophia
+emma

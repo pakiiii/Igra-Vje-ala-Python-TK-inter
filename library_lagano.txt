@@ -1,0 +1,20 @@
+# Alat
+odvijač
+bušilica
+čekić
+
+# Domaće životinje
+pas
+mačka
+konj
+
+# Muška imena
+ivan
+marko
+petar
+josip
+
+# Ženska imena
+ana
+marija
+iva

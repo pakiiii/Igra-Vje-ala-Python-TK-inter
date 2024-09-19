@@ -1,0 +1,22 @@
+# Alat
+skalpel
+metar
+vaservaga
+
+# Domaće životinje
+magarac
+puran
+patka
+
+# Muška imena
+andrija
+antonio
+benjamin
+
+# Ženska imena
+barbara
+anatea
+nives
+ines
+teodora
+jelena
